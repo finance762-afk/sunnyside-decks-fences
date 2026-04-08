@@ -2,12 +2,12 @@
 $pageTitle       = "Custom Decks & Fences in Everett, WA | Sunnyside";
 $pageDescription = "Family-owned deck & fence builders in Everett, WA. Custom decks, composite decking, cedar fences & pergolas across the Puget Sound. Free estimates.";
 $canonicalUrl    = "https://sunnysidedecksfences.com/";
-$ogImage         = "https://i.imgur.com/mYU4D7z.jpeg";
+$ogImage         = "https://i.imgur.com/SFU9Ao3.jpeg";
 $currentPage     = "home";
 $useSwiper       = false;
 $useTilt         = false;
 $useTyped        = false;
-$heroImage       = "https://i.imgur.com/mYU4D7z.jpeg";
+$heroImage       = "https://i.imgur.com/SFU9Ao3.jpeg";
 
 $schemaMarkup = <<<JSON
 {
@@ -137,7 +137,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 <main id="main-content">
 
   <!-- ============ HERO ============ -->
-  <section class="hero" style="background-image: url('https://i.imgur.com/mYU4D7z.jpeg');" aria-label="Hero">
+  <section class="hero" style="background-image: url('https://i.imgur.com/SFU9Ao3.jpeg');" aria-label="Hero">
     <div class="hero-content">
       <span class="eyebrow-label">Family-Owned · Everett, WA</span>
       <h1>Custom Decks &amp; Fences Built for the Pacific Northwest</h1>
@@ -258,9 +258,9 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-alt" aria-labelledby="why-heading">
     <div class="container">
       <div class="split">
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/SFU9Ao3.jpeg" alt="Multi-level ipe hardwood deck with hot tub and water view, built by Sunnyside Decks &amp; Fences in Snohomish County, WA" width="800" height="1000" loading="lazy">
+            <img src="https://i.imgur.com/D6V47uI.jpeg" alt="Rain-wet ipe hardwood deck built for Pacific Northwest weather by Sunnyside Decks &amp; Fences in Snohomish County, WA" width="800" height="1000" loading="lazy">
           </div>
         </div>
         <div data-animate="fade-up">
@@ -329,7 +329,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-surface" aria-labelledby="process-heading">
     <div class="container">
       <div class="split-reverse">
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/ZCLIwMP.jpeg" alt="Deck framing and construction in progress overlooking the water — Sunnyside Decks &amp; Fences crew on-site in the Puget Sound area" width="800" height="1000" loading="lazy">
           </div>
@@ -420,7 +420,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-surface" aria-labelledby="about-snippet-heading">
     <div class="container">
       <div class="split">
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/BatIFR5.jpeg" alt="Aerial view of an Everett craftsman home showing custom deck and stair build by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>

@@ -129,7 +129,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-alt" aria-labelledby="hardware-heading">
     <div class="container">
       <div class="split-reverse">
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/ElkJsDl.jpeg" alt="Custom cedar double swing gate with vertical panels, built by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>
@@ -214,7 +214,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <p>Most driveway gates we install are cedar or hardwood with vertical or horizontal slat panels — designed to match the rest of your fence run for visual consistency. We can also coordinate with electricians for automated openers, keypad entry, and smart-home integration.</p>
           <p>Pair a new gate with our <a href="/services/wood-fence-installation">cedar fence installation</a>, integrate it into a larger <a href="/services/outdoor-living-spaces">outdoor living build</a>, or coordinate with a new <a href="/services/custom-deck-building">custom deck build</a> for a fully cohesive yard project.</p>
         </div>
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/cFo2xyI.jpeg" alt="Close-up view of custom cedar driveway gate panels installed by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>

@@ -136,7 +136,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <p>Wood decks are also more forgiving on craftsman, mid-century, and traditional homes where a bright capped composite can look out of place. And for homeowners who genuinely enjoy seasonal maintenance — sanding, oiling, refreshing the finish — wood gives you a deck that ages with the house.</p>
           <p>The key is choosing the right species for your exposure, your budget, and how much (or how little) maintenance you actually want to do. Let's break down the four most common wood decking options for the Pacific Northwest.</p>
         </div>
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/D6V47uI.jpeg" alt="Rain-wet ipe hardwood deck looking toward cable railing in the Pacific Northwest" width="800" height="1000" loading="lazy">
           </div>
@@ -188,7 +188,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-alt" aria-labelledby="how-we-build">
     <div class="container">
       <div class="split-reverse">
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/8ew65yq.jpeg" alt="Two-story wood deck and balcony with tongue-and-groove ceiling, built by Sunnyside Decks &amp; Fences in the greater Seattle area" width="800" height="1000" loading="lazy">
           </div>

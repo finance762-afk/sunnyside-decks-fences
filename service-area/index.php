@@ -174,7 +174,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-surface" aria-labelledby="onsite-heading">
     <div class="container">
       <div class="split">
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/JjwtGaa.jpeg" alt="Custom horizontal slat cedar fence installed along a sidewalk near modern homes in the Puget Sound area" width="800" height="1000" loading="lazy">
           </div>

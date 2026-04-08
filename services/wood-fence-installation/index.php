@@ -145,7 +145,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <p>Sunnyside sets every post in concrete with proper drainage at the base, uses 4x4 or 6x6 posts depending on fence height and exposure, and fastens everything with hot-dipped galvanized or stainless hardware that won't bleed rust streaks down the boards. We also leave a small gap between board bottoms and the soil to keep wicking moisture from rotting the boards.</p>
           <p>The result is a fence that stays plumb, stays tight, and ages gracefully — instead of leaning, sagging, and needing to be replaced in eight years.</p>
         </div>
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/UG8kJLi.jpeg" alt="Horizontal slat cedar privacy fence built by Sunnyside Decks &amp; Fences along a Snohomish County backyard" width="800" height="1000" loading="lazy">
           </div>
@@ -194,7 +194,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-alt" aria-labelledby="more-styles">
     <div class="container">
       <div class="split-reverse">
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/wYAtpt4.jpeg" alt="Vertical board cedar fence along a wooded property line in the Puget Sound area" width="800" height="1000" loading="lazy">
           </div>

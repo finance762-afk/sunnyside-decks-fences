@@ -179,7 +179,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <p>Cable railing and glass panel railing are the two systems we install most often on view properties. Cable runs five or six lines of stainless cable horizontally between posts — it's almost invisible from inside the deck looking out, costs less than glass, and is easier to clean. Glass panels are the premium option: zero visible obstruction, modern look, and they perform well in marine air when installed with proper hardware.</p>
           <p>If you're not on a view lot, aluminum and vinyl systems are usually the best balance of looks, cost, and zero maintenance. Wood railing makes sense on traditional homes where the railing is meant to be a feature, not a window.</p>
         </div>
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/acHlFqy.jpeg" alt="Composite deck with black aluminum railing on a rainy Pacific Northwest day, built by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>
@@ -205,7 +205,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-surface" aria-labelledby="install-quality">
     <div class="container">
       <div class="split-reverse">
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/41vVdpZ.jpeg" alt="Deck with railing posts under construction in the Puget Sound area" width="800" height="1000" loading="lazy">
           </div>

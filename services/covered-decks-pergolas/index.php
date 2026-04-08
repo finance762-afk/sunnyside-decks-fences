@@ -129,7 +129,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-alt" aria-labelledby="why-cover">
     <div class="container">
       <div class="split-reverse">
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/4tROy9r.jpeg" alt="Interior view of a custom covered patio with skylights, built by Sunnyside Decks &amp; Fences in the Puget Sound area" width="800" height="1000" loading="lazy">
           </div>
@@ -199,7 +199,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <p>The difference between a pergola that looks like it came from a kit and one that looks like it was always part of the house comes down to detail. Stone-wrapped column bases anchor the structure visually. Exposed timber beams give it scale. A finished tongue-and-groove cedar ceiling on the underside makes the space feel like an outdoor room, not a parking cover.</p>
           <p>We can also integrate skylights, recessed lighting, ceiling fans, electrical outlets, and even ductless heaters if you want to use the space year-round. Pair a covered patio with a <a href="/services/custom-deck-building">custom deck build</a>, integrate it into a full <a href="/services/outdoor-living-spaces">outdoor living space</a>, or finish the edges with <a href="/services/deck-railings">code-compliant railings</a>.</p>
         </div>
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/0XPAb7O.jpeg" alt="Attached covered patio with stone columns and timber beams built by Sunnyside Decks &amp; Fences in Snohomish County" width="800" height="1000" loading="lazy">
           </div>

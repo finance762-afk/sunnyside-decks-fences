@@ -188,7 +188,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
             </li>
           </ul>
         </div>
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/XlR8JpE.jpeg" alt="Custom wood deck with railing and stairs leading to backyard, built by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>
@@ -240,7 +240,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-alt" aria-labelledby="materials-heading">
     <div class="container">
       <div class="split-reverse">
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/frnq7SE.jpeg" alt="Composite deck under construction with concrete footings, framing visible — Sunnyside crew on-site in Snohomish County" width="800" height="1000" loading="lazy">
           </div>

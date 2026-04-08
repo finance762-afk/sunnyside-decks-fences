@@ -97,7 +97,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-alt" aria-labelledby="meet-tim">
     <div class="container">
       <div class="split">
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/ijlVzoa.jpeg" alt="Tim Lapatsin's crew at work building a covered patio in the Puget Sound area" width="800" height="1000" loading="lazy">
           </div>
@@ -117,7 +117,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-surface" aria-labelledby="why-sunnyside">
     <div class="container">
       <div class="split-reverse">
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/Beyaeu1.jpeg" alt="Freestanding cedar pergola on a flagstone patio with landscaping built by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>
@@ -170,7 +170,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-surface" aria-labelledby="service-area-heading">
     <div class="container">
       <div class="split">
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/mYU4D7z.jpeg" alt="Aerial drone view of a craftsman home with custom Sunnyside deck and pergola in the Puget Sound region" width="800" height="1000" loading="lazy">
           </div>

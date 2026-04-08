@@ -146,7 +146,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <p>Sunnyside runs outdoor living builds as a single design-build project. Tim handles the full layout, coordinates every trade, and keeps the timeline moving so you only have one phone number to call when you have a question. The deck and the pergola get planned together. The lighting gets wired before the decking goes down. The fence ties into the deck level. Nothing is an afterthought.</p>
           <p>That's the difference between a backyard that feels like it was always there and one that feels like a bunch of disconnected projects.</p>
         </div>
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/SFU9Ao3.jpeg" alt="Multi-level outdoor living build with hot tub and water view, designed and built by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>
@@ -210,7 +210,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-alt" aria-labelledby="vision-heading">
     <div class="container">
       <div class="split-reverse">
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/4wTTC6a.jpeg" alt="Modern two-level ipe hardwood deck outdoor living build by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>

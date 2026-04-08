@@ -181,7 +181,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-surface" aria-labelledby="why-composite">
     <div class="container">
       <div class="split-reverse">
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/KEvWgFa.jpeg" alt="Top-down view of composite deck with stairs in a Snohomish County backyard, installed by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>
@@ -227,7 +227,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <p>Sunnyside installs composite decking the way the manufacturers actually recommend it: hidden fasteners between every board, proper joist spacing for the brand and thickness you choose, picture-frame border boards on most builds, and matching fascia for a finished look around the substructure.</p>
           <p>Need ideas? Pair composite decking with a custom <a href="/services/deck-railings">cable or aluminum railing system</a> for a modern look, or stack it under a <a href="/services/covered-decks-pergolas">covered pergola</a> to extend your usable season. Prefer the look of natural wood? Read about our <a href="/services/wood-decking">wood decking options</a>.</p>
         </div>
-        <div data-animate="wipe-right">
+        <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
             <img src="https://i.imgur.com/J78JA4k.jpeg" alt="Full backyard view of finished composite deck installation in the Puget Sound area" width="800" height="1000" loading="lazy">
           </div>
