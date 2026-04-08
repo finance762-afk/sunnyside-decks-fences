@@ -24,6 +24,9 @@ $noindex   = isset($noindex)   ? $noindex   : false;
   <meta name="robots" content="noindex, nofollow">
   <?php endif; ?>
 
+  <!-- Progressive enhancement flag: gates scroll-animation hidden states so content stays visible if JS fails -->
+  <script>document.documentElement.classList.add('js');</script>
+
   <title><?php echo htmlspecialchars($pageTitle); ?></title>
   <meta name="description" content="<?php echo htmlspecialchars($pageDescription); ?>">
   <link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl); ?>">
@@ -62,7 +65,7 @@ $noindex   = isset($noindex)   ? $noindex   : false;
   <?php endif; ?>
 
   <!-- Site Stylesheet (cache-bust) -->
-  <link rel="stylesheet" href="/assets/css/styles.css?v=3">
+  <link rel="stylesheet" href="/assets/css/styles.css?v=5">
 
   <!-- Google Analytics 4 — placeholder -->
   <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
