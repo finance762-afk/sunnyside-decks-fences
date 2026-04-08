@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /includes/
+Disallow: /thank-you/
+
+Sitemap: https://sunnysidedecksfences.com/sitemap.xml
+Sitemap: https://sunnysidedecksfences.com/sitemap-images.xml
