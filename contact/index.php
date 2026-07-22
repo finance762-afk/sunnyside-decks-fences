@@ -94,7 +94,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <h2>Request a Free Estimate</h2>
           <p class="form-intro">Fill out the form below and Tim will get back to you within one business day to schedule your free on-site consultation.</p>
 
-          <form action="https://formsubmit.co/timlapatsin@yahoo.com" method="POST" novalidate>
+          <form action="https://db.pageone.cloud/functions/v1/leads/sunnyside-decks-fences" method="POST" novalidate>
             <input type="hidden" name="_next" value="https://sunnysidedecksfences.com/thank-you">
             <input type="hidden" name="_captcha" value="false">
             <input type="text" name="_honey" style="display:none">
