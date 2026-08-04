@@ -2,7 +2,7 @@
 $pageTitle       = "Thank You | Sunnyside Decks & Fences";
 $pageDescription = "Thank you for contacting Sunnyside Decks & Fences. Tim will be in touch within one business day.";
 $canonicalUrl    = "https://sunnysidedecksfences.com/thank-you";
-$ogImage         = "https://i.imgur.com/aKknI6J.png";
+$ogImage         = "/assets/images/logo.png";
 $currentPage     = "contact";
 $useSwiper       = false;
 $useTilt         = false;

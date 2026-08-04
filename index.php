@@ -2,12 +2,12 @@
 $pageTitle       = "Custom Decks & Fences in Everett, WA | Sunnyside";
 $pageDescription = "Family-owned deck & fence builders in Everett, WA. Custom decks, composite decking, cedar fences & pergolas across the Puget Sound. Free estimates.";
 $canonicalUrl    = "https://sunnysidedecksfences.com/";
-$ogImage         = "https://i.imgur.com/SFU9Ao3.jpeg";
+$ogImage         = "/assets/images/multi-level-outdoor-living-build-with-hot-tub-an-960.webp";
 $currentPage     = "home";
 $useSwiper       = false;
 $useTilt         = false;
 $useTyped        = false;
-$heroImage       = "https://i.imgur.com/SFU9Ao3.jpeg";
+$heroImage       = "/assets/images/multi-level-outdoor-living-build-with-hot-tub-an-960.webp";
 
 $schemaMarkup = <<<JSON
 {
@@ -18,8 +18,8 @@ $schemaMarkup = <<<JSON
       "@id": "https://sunnysidedecksfences.com/#business",
       "name": "Sunnyside Decks & Fences",
       "alternateName": "Lapatsin LLC",
-      "image": "https://i.imgur.com/aKknI6J.png",
-      "logo": "https://i.imgur.com/aKknI6J.png",
+      "image": "/assets/images/logo.png",
+      "logo": "/assets/images/logo.png",
       "url": "https://sunnysidedecksfences.com/",
       "telephone": "+1-425-737-2259",
       "email": "timlapatsin@yahoo.com",
@@ -137,7 +137,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 <main id="main-content">
 
   <!-- ============ HERO ============ -->
-  <section class="hero" style="background-image: url('https://i.imgur.com/SFU9Ao3.jpeg');" aria-label="Hero">
+  <section class="hero" style="background-image: url('/assets/images/multi-level-outdoor-living-build-with-hot-tub-an-960.webp');" aria-label="Hero">
     <div class="hero-content">
       <span class="eyebrow-label">Family-Owned · Everett, WA</span>
       <h1>Custom Decks &amp; Fences Built for the Pacific Northwest</h1>
@@ -260,7 +260,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="split">
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/D6V47uI.jpeg" alt="Rain-wet ipe hardwood deck built for Pacific Northwest weather by Sunnyside Decks &amp; Fences in Snohomish County, WA" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/rain-wet-ipe-hardwood-deck-built-for-pacific-nor-960.webp" srcset="/assets/images/rain-wet-ipe-hardwood-deck-built-for-pacific-nor-480.webp 480w, /assets/images/rain-wet-ipe-hardwood-deck-built-for-pacific-nor-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Rain-wet ipe hardwood deck built for Pacific Northwest weather by Sunnyside Decks &amp; Fences in Snohomish County, WA" width="800" height="1000" loading="lazy">
           </div>
         </div>
         <div data-animate="fade-up">
@@ -331,7 +331,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="split-reverse">
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/ZCLIwMP.jpeg" alt="Deck framing and construction in progress overlooking the water — Sunnyside Decks &amp; Fences crew on-site in the Puget Sound area" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/deck-framing-and-construction-in-progress-overlo-960.webp" srcset="/assets/images/deck-framing-and-construction-in-progress-overlo-480.webp 480w, /assets/images/deck-framing-and-construction-in-progress-overlo-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Deck framing and construction in progress overlooking the water — Sunnyside Decks &amp; Fences crew on-site in the Puget Sound area" width="800" height="1000" loading="lazy">
           </div>
         </div>
         <div data-animate="fade-up">
@@ -382,35 +382,35 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       </div>
 
       <div class="gallery-asym" data-animate="fade-up">
-        <a class="gallery-item large" href="https://i.imgur.com/4wTTC6a.jpeg" target="_blank" rel="noopener" aria-label="Modern two-level ipe hardwood deck">
-          <img src="https://i.imgur.com/4wTTC6a.jpeg" alt="Modern two-level ipe hardwood deck with cable railing built by Sunnyside Decks &amp; Fences" width="800" height="600" loading="lazy">
+        <a class="gallery-item large" href="/assets/images/modern-two-level-ipe-hardwood-deck-with-cable-ra-960.webp" target="_blank" rel="noopener" aria-label="Modern two-level ipe hardwood deck">
+          <img src="/assets/images/modern-two-level-ipe-hardwood-deck-with-cable-ra-960.webp" srcset="/assets/images/modern-two-level-ipe-hardwood-deck-with-cable-ra-480.webp 480w, /assets/images/modern-two-level-ipe-hardwood-deck-with-cable-ra-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Modern two-level ipe hardwood deck with cable railing built by Sunnyside Decks &amp; Fences" width="800" height="600" loading="lazy">
         </a>
-        <a class="gallery-item" href="https://i.imgur.com/5MnRDrC.jpeg" target="_blank" rel="noopener" aria-label="Finished ipe deck with cable railing">
-          <img src="https://i.imgur.com/5MnRDrC.jpeg" alt="Finished ipe hardwood deck with stainless cable railing system in Snohomish County" width="600" height="400" loading="lazy">
+        <a class="gallery-item" href="/assets/images/finished-ipe-hardwood-deck-with-stainless-cable-960.webp" target="_blank" rel="noopener" aria-label="Finished ipe deck with cable railing">
+          <img src="/assets/images/finished-ipe-hardwood-deck-with-stainless-cable-960.webp" srcset="/assets/images/finished-ipe-hardwood-deck-with-stainless-cable-480.webp 480w, /assets/images/finished-ipe-hardwood-deck-with-stainless-cable-960.webp 960w" sizes="(max-width: 768px) 100vw, 600px" alt="Finished ipe hardwood deck with stainless cable railing system in Snohomish County" width="600" height="400" loading="lazy">
         </a>
-        <a class="gallery-item" href="https://i.imgur.com/lrcqhLV.jpeg" target="_blank" rel="noopener" aria-label="Deck with polycarbonate pergola roof">
-          <img src="https://i.imgur.com/lrcqhLV.jpeg" alt="Custom deck with polycarbonate-roof pergola for year-round PNW use" width="600" height="400" loading="lazy">
+        <a class="gallery-item" href="/assets/images/custom-deck-with-polycarbonate-roof-pergola-for-480.webp" target="_blank" rel="noopener" aria-label="Deck with polycarbonate pergola roof">
+          <img src="/assets/images/custom-deck-with-polycarbonate-roof-pergola-for-480.webp" alt="Custom deck with polycarbonate-roof pergola for year-round PNW use" width="600" height="400" loading="lazy">
         </a>
-        <a class="gallery-item tall" href="https://i.imgur.com/2MhXPL1.jpeg" target="_blank" rel="noopener" aria-label="Freestanding gable pergola">
-          <img src="https://i.imgur.com/2MhXPL1.jpeg" alt="Freestanding gable-roof cedar pergola in an Everett-area backyard" width="600" height="800" loading="lazy">
+        <a class="gallery-item tall" href="/assets/images/freestanding-gable-roof-cedar-pergola-in-an-ever-480.webp" target="_blank" rel="noopener" aria-label="Freestanding gable pergola">
+          <img src="/assets/images/freestanding-gable-roof-cedar-pergola-in-an-ever-480.webp" alt="Freestanding gable-roof cedar pergola in an Everett-area backyard" width="600" height="800" loading="lazy">
         </a>
-        <a class="gallery-item wide" href="https://i.imgur.com/1FqhBro.jpeg" target="_blank" rel="noopener" aria-label="Tall horizontal slat cedar fence">
-          <img src="https://i.imgur.com/1FqhBro.jpeg" alt="Tall horizontal slat cedar privacy fence built by Sunnyside Decks &amp; Fences" width="800" height="500" loading="lazy">
+        <a class="gallery-item wide" href="/assets/images/tall-horizontal-slat-cedar-privacy-fence-built-b-960.webp" target="_blank" rel="noopener" aria-label="Tall horizontal slat cedar fence">
+          <img src="/assets/images/tall-horizontal-slat-cedar-privacy-fence-built-b-960.webp" srcset="/assets/images/tall-horizontal-slat-cedar-privacy-fence-built-b-480.webp 480w, /assets/images/tall-horizontal-slat-cedar-privacy-fence-built-b-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Tall horizontal slat cedar privacy fence built by Sunnyside Decks &amp; Fences" width="800" height="500" loading="lazy">
         </a>
-        <a class="gallery-item" href="https://i.imgur.com/XoaA0Ge.jpeg" target="_blank" rel="noopener" aria-label="Horizontal slat driveway gate">
-          <img src="https://i.imgur.com/XoaA0Ge.jpeg" alt="Custom horizontal slat cedar driveway gate installation" width="600" height="400" loading="lazy">
+        <a class="gallery-item" href="/assets/images/custom-horizontal-slat-cedar-driveway-gate-insta-960.webp" target="_blank" rel="noopener" aria-label="Horizontal slat driveway gate">
+          <img src="/assets/images/custom-horizontal-slat-cedar-driveway-gate-insta-960.webp" srcset="/assets/images/custom-horizontal-slat-cedar-driveway-gate-insta-480.webp 480w, /assets/images/custom-horizontal-slat-cedar-driveway-gate-insta-960.webp 960w" sizes="(max-width: 768px) 100vw, 600px" alt="Custom horizontal slat cedar driveway gate installation" width="600" height="400" loading="lazy">
         </a>
-        <a class="gallery-item" href="https://i.imgur.com/8ew65yq.jpeg" target="_blank" rel="noopener" aria-label="Two-story deck and balcony">
-          <img src="https://i.imgur.com/8ew65yq.jpeg" alt="Two-story residential deck and balcony build in the greater Seattle area" width="600" height="400" loading="lazy">
+        <a class="gallery-item" href="/assets/images/two-story-residential-deck-and-balcony-build-in-960.webp" target="_blank" rel="noopener" aria-label="Two-story deck and balcony">
+          <img src="/assets/images/two-story-residential-deck-and-balcony-build-in-960.webp" srcset="/assets/images/two-story-residential-deck-and-balcony-build-in-480.webp 480w, /assets/images/two-story-residential-deck-and-balcony-build-in-960.webp 960w" sizes="(max-width: 768px) 100vw, 600px" alt="Two-story residential deck and balcony build in the greater Seattle area" width="600" height="400" loading="lazy">
         </a>
-        <a class="gallery-item" href="https://i.imgur.com/0XPAb7O.jpeg" target="_blank" rel="noopener" aria-label="Covered patio with stone columns">
-          <img src="https://i.imgur.com/0XPAb7O.jpeg" alt="Covered patio with stone columns and timber roof, designed for PNW rain" width="600" height="400" loading="lazy">
+        <a class="gallery-item" href="/assets/images/covered-patio-with-stone-columns-and-timber-roof-480.webp" target="_blank" rel="noopener" aria-label="Covered patio with stone columns">
+          <img src="/assets/images/covered-patio-with-stone-columns-and-timber-roof-480.webp" alt="Covered patio with stone columns and timber roof, designed for PNW rain" width="600" height="400" loading="lazy">
         </a>
-        <a class="gallery-item" href="https://i.imgur.com/GVgyzHY.jpeg" target="_blank" rel="noopener" aria-label="Composite deck with cable railing">
-          <img src="https://i.imgur.com/GVgyzHY.jpeg" alt="Composite deck installation with stainless cable railing in Snohomish County" width="600" height="400" loading="lazy">
+        <a class="gallery-item" href="/assets/images/composite-deck-installation-with-stainless-cable-480.webp" target="_blank" rel="noopener" aria-label="Composite deck with cable railing">
+          <img src="/assets/images/composite-deck-installation-with-stainless-cable-480.webp" alt="Composite deck installation with stainless cable railing in Snohomish County" width="600" height="400" loading="lazy">
         </a>
-        <a class="gallery-item wide" href="https://i.imgur.com/ElkJsDl.jpeg" target="_blank" rel="noopener" aria-label="Cedar double gate">
-          <img src="https://i.imgur.com/ElkJsDl.jpeg" alt="Custom cedar double gate matched to a horizontal slat fence" width="800" height="500" loading="lazy">
+        <a class="gallery-item wide" href="/assets/images/custom-cedar-double-gate-matched-to-a-horizontal-960.webp" target="_blank" rel="noopener" aria-label="Cedar double gate">
+          <img src="/assets/images/custom-cedar-double-gate-matched-to-a-horizontal-960.webp" srcset="/assets/images/custom-cedar-double-gate-matched-to-a-horizontal-480.webp 480w, /assets/images/custom-cedar-double-gate-matched-to-a-horizontal-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Custom cedar double gate matched to a horizontal slat fence" width="800" height="500" loading="lazy">
         </a>
       </div>
     </div>
@@ -422,7 +422,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="split">
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/BatIFR5.jpeg" alt="Aerial view of an Everett craftsman home showing custom deck and stair build by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/aerial-view-of-an-everett-craftsman-home-showing-480.webp" alt="Aerial view of an Everett craftsman home showing custom deck and stair build by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>
         </div>
         <div data-animate="fade-up">

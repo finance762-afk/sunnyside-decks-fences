@@ -2,12 +2,12 @@
 $pageTitle       = "Our Services | Sunnyside Decks & Fences, Everett WA";
 $pageDescription = "Custom decks, composite decking, cedar fences, gates & pergolas built for the Pacific Northwest. See every service Sunnyside offers across the Puget Sound.";
 $canonicalUrl    = "https://sunnysidedecksfences.com/services";
-$ogImage         = "https://i.imgur.com/V2WV8Zg.jpeg";
+$ogImage         = "/assets/images/v2wv8zg-480.webp";
 $currentPage     = "services";
 $useSwiper       = false;
 $useTilt         = false;
 $useTyped        = false;
-$heroImage       = "https://i.imgur.com/V2WV8Zg.jpeg";
+$heroImage       = "/assets/images/v2wv8zg-480.webp";
 
 $schemaMarkup = <<<JSON
 {
@@ -71,7 +71,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 <main id="main-content">
 
   <!-- HERO -->
-  <section class="page-hero" style="background-image: url('https://i.imgur.com/V2WV8Zg.jpeg');" aria-label="Services hero">
+  <section class="page-hero" style="background-image: url('/assets/images/v2wv8zg-480.webp');" aria-label="Services hero">
     <div class="page-hero-content">
       <span class="eyebrow-label">Our Services</span>
       <h1>Deck, Fence &amp; Outdoor Living Services in Everett, WA</h1>

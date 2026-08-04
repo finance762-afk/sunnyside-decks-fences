@@ -2,12 +2,12 @@
 $pageTitle       = "Cedar Fence Installation Everett WA | Sunnyside";
 $pageDescription = "Cedar privacy, horizontal slat, board-on-board & shadowbox fence installation in Everett, WA & the Puget Sound. Built to last in PNW weather. Free estimates.";
 $canonicalUrl    = "https://sunnysidedecksfences.com/services/wood-fence-installation";
-$ogImage         = "https://i.imgur.com/OdaTKP9.jpeg";
+$ogImage         = "/assets/images/odatkp9-960.webp";
 $currentPage     = "services";
 $useSwiper       = false;
 $useTilt         = false;
 $useTyped        = false;
-$heroImage       = "https://i.imgur.com/OdaTKP9.jpeg";
+$heroImage       = "/assets/images/odatkp9-960.webp";
 
 $schemaMarkup = <<<JSON
 {
@@ -104,7 +104,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 <main id="main-content">
 
   <!-- HERO -->
-  <section class="page-hero" style="background-image: url('https://i.imgur.com/OdaTKP9.jpeg');" aria-label="Wood fence installation hero">
+  <section class="page-hero" style="background-image: url('/assets/images/odatkp9-960.webp');" aria-label="Wood fence installation hero">
     <div class="page-hero-content">
       <span class="eyebrow-label">Cedar · Privacy · Horizontal Slat · Picket</span>
       <h1>Cedar Fence Installation in Everett, WA</h1>
@@ -147,7 +147,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         </div>
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/UG8kJLi.jpeg" alt="Horizontal slat cedar privacy fence built by Sunnyside Decks &amp; Fences along a Snohomish County backyard" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/horizontal-slat-cedar-privacy-fence-built-by-sun-960.webp" srcset="/assets/images/horizontal-slat-cedar-privacy-fence-built-by-sun-480.webp 480w, /assets/images/horizontal-slat-cedar-privacy-fence-built-by-sun-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Horizontal slat cedar privacy fence built by Sunnyside Decks &amp; Fences along a Snohomish County backyard" width="800" height="1000" loading="lazy">
           </div>
         </div>
       </div>
@@ -196,7 +196,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="split-reverse">
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/wYAtpt4.jpeg" alt="Vertical board cedar fence along a wooded property line in the Puget Sound area" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/vertical-board-cedar-fence-along-a-wooded-proper-960.webp" srcset="/assets/images/vertical-board-cedar-fence-along-a-wooded-proper-480.webp 480w, /assets/images/vertical-board-cedar-fence-along-a-wooded-proper-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Vertical board cedar fence along a wooded property line in the Puget Sound area" width="800" height="1000" loading="lazy">
           </div>
         </div>
         <div data-animate="fade-up">
@@ -214,7 +214,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-surface">
     <div class="container">
       <div class="img-frame" style="aspect-ratio: 16/7; max-width: 1000px; margin: 0 auto;" data-animate="fade-up">
-        <img src="https://i.imgur.com/U3UlIhK.jpeg" alt="Custom horizontal slat cedar fence with lattice upper, built by Sunnyside Decks &amp; Fences" width="1000" height="438" loading="lazy">
+        <img src="/assets/images/custom-horizontal-slat-cedar-fence-with-lattice-960.webp" srcset="/assets/images/custom-horizontal-slat-cedar-fence-with-lattice-480.webp 480w, /assets/images/custom-horizontal-slat-cedar-fence-with-lattice-960.webp 960w" sizes="(max-width: 768px) 100vw, 1000px" alt="Custom horizontal slat cedar fence with lattice upper, built by Sunnyside Decks &amp; Fences" width="1000" height="438" loading="lazy">
       </div>
     </div>
   </section>

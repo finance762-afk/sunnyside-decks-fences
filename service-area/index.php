@@ -2,12 +2,12 @@
 $pageTitle       = "Service Area | Sunnyside Decks & Fences, Everett WA";
 $pageDescription = "Serving a 50-mile radius from Everett, WA — Snohomish, King, Skagit & Island Counties. Custom decks, fences & pergolas across the Puget Sound.";
 $canonicalUrl    = "https://sunnysidedecksfences.com/service-area";
-$ogImage         = "https://i.imgur.com/4wTTC6a.jpeg";
+$ogImage         = "/assets/images/modern-two-level-ipe-hardwood-deck-with-cable-ra-960.webp";
 $currentPage     = "service-area";
 $useSwiper       = false;
 $useTilt         = false;
 $useTyped        = false;
-$heroImage       = "https://i.imgur.com/4wTTC6a.jpeg";
+$heroImage       = "/assets/images/modern-two-level-ipe-hardwood-deck-with-cable-ra-960.webp";
 
 $schemaMarkup = <<<JSON
 {
@@ -64,7 +64,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 <main id="main-content">
 
   <!-- HERO -->
-  <section class="page-hero" style="background-image: url('https://i.imgur.com/4wTTC6a.jpeg');" aria-label="Service area hero">
+  <section class="page-hero" style="background-image: url('/assets/images/modern-two-level-ipe-hardwood-deck-with-cable-ra-960.webp');" aria-label="Service area hero">
     <div class="page-hero-content">
       <span class="eyebrow-label">Where We Build</span>
       <h1>Deck &amp; Fence Services Across the Greater Puget Sound — 50-Mile Radius from Everett, WA</h1>
@@ -176,7 +176,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="split">
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/JjwtGaa.jpeg" alt="Custom horizontal slat cedar fence installed along a sidewalk near modern homes in the Puget Sound area" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/custom-horizontal-slat-cedar-fence-installed-alo-960.webp" srcset="/assets/images/custom-horizontal-slat-cedar-fence-installed-alo-480.webp 480w, /assets/images/custom-horizontal-slat-cedar-fence-installed-alo-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Custom horizontal slat cedar fence installed along a sidewalk near modern homes in the Puget Sound area" width="800" height="1000" loading="lazy">
           </div>
         </div>
         <div data-animate="fade-up">

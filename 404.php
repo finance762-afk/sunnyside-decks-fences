@@ -2,7 +2,7 @@
 $pageTitle       = "Page Not Found | Sunnyside Decks & Fences";
 $pageDescription = "The page you're looking for doesn't exist. Get back to Sunnyside Decks & Fences — Everett's family-owned deck and fence builders.";
 $canonicalUrl    = "https://sunnysidedecksfences.com/";
-$ogImage         = "https://i.imgur.com/aKknI6J.png";
+$ogImage         = "/assets/images/logo.png";
 $currentPage     = "";
 $useSwiper       = false;
 $useTilt         = false;

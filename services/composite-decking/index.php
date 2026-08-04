@@ -2,12 +2,12 @@
 $pageTitle       = "Composite Deck Installation Everett WA | Sunnyside";
 $pageDescription = "Trex, TimberTech & PVC composite decking installed across Everett, WA & the Puget Sound. Low-maintenance, fade-resistant, built for PNW rain. Free estimates.";
 $canonicalUrl    = "https://sunnysidedecksfences.com/services/composite-decking";
-$ogImage         = "https://i.imgur.com/GVgyzHY.jpeg";
+$ogImage         = "/assets/images/composite-deck-installation-with-stainless-cable-480.webp";
 $currentPage     = "services";
 $useSwiper       = false;
 $useTilt         = false;
 $useTyped        = false;
-$heroImage       = "https://i.imgur.com/GVgyzHY.jpeg";
+$heroImage       = "/assets/images/composite-deck-installation-with-stainless-cable-480.webp";
 
 $schemaMarkup = <<<JSON
 {
@@ -103,7 +103,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 <main id="main-content">
 
   <!-- HERO -->
-  <section class="page-hero" style="background-image: url('https://i.imgur.com/GVgyzHY.jpeg');" aria-label="Composite decking hero">
+  <section class="page-hero" style="background-image: url('/assets/images/composite-deck-installation-with-stainless-cable-480.webp');" aria-label="Composite decking hero">
     <div class="page-hero-content">
       <span class="eyebrow-label">Trex · TimberTech · PVC</span>
       <h1>Composite Deck Installation in Everett, WA</h1>
@@ -183,7 +183,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="split-reverse">
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/KEvWgFa.jpeg" alt="Top-down view of composite deck with stairs in a Snohomish County backyard, installed by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/top-down-view-of-composite-deck-with-stairs-in-a-960.webp" srcset="/assets/images/top-down-view-of-composite-deck-with-stairs-in-a-480.webp 480w, /assets/images/top-down-view-of-composite-deck-with-stairs-in-a-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Top-down view of composite deck with stairs in a Snohomish County backyard, installed by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>
         </div>
         <div data-animate="fade-up">
@@ -229,7 +229,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         </div>
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/J78JA4k.jpeg" alt="Full backyard view of finished composite deck installation in the Puget Sound area" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/full-backyard-view-of-finished-composite-deck-in-480.webp" alt="Full backyard view of finished composite deck installation in the Puget Sound area" width="800" height="1000" loading="lazy">
           </div>
         </div>
       </div>

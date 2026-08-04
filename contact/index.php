@@ -2,12 +2,12 @@
 $pageTitle       = "Contact Sunnyside Decks & Fences | Everett, WA";
 $pageDescription = "Get a free deck or fence estimate in Everett, WA & the Puget Sound. Call (425) 737-2259 or request a free on-site consultation with Tim today.";
 $canonicalUrl    = "https://sunnysidedecksfences.com/contact";
-$ogImage         = "https://i.imgur.com/hoaJfLT.jpeg";
+$ogImage         = "/assets/images/hoajflt-480.webp";
 $currentPage     = "contact";
 $useSwiper       = false;
 $useTilt         = false;
 $useTyped        = false;
-$heroImage       = "https://i.imgur.com/hoaJfLT.jpeg";
+$heroImage       = "/assets/images/hoajflt-480.webp";
 
 $schemaMarkup = <<<JSON
 {
@@ -17,7 +17,7 @@ $schemaMarkup = <<<JSON
       "@type": "LocalBusiness",
       "@id": "https://sunnysidedecksfences.com/#business",
       "name": "Sunnyside Decks & Fences",
-      "image": "https://i.imgur.com/aKknI6J.png",
+      "image": "/assets/images/logo.png",
       "url": "https://sunnysidedecksfences.com/",
       "telephone": "+1-425-737-2259",
       "email": "timlapatsin@yahoo.com",
@@ -66,7 +66,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 <main id="main-content">
 
   <!-- HERO -->
-  <section class="page-hero" style="background-image: url('https://i.imgur.com/hoaJfLT.jpeg');" aria-label="Contact hero">
+  <section class="page-hero" style="background-image: url('/assets/images/hoajflt-480.webp');" aria-label="Contact hero">
     <div class="page-hero-content">
       <span class="eyebrow-label">Get In Touch</span>
       <h1>Contact Sunnyside Decks &amp; Fences — Free Estimates in Everett &amp; the Puget Sound</h1>

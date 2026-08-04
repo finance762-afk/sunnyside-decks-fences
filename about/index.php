@@ -2,12 +2,12 @@
 $pageTitle       = "About Sunnyside Decks & Fences | Everett, WA";
 $pageDescription = "Family-run deck & fence builder in Everett, WA, founded by Tim Lapatsin. Owner on every job, premium PNW materials, transparent pricing. Free estimates.";
 $canonicalUrl    = "https://sunnysidedecksfences.com/about";
-$ogImage         = "https://i.imgur.com/V2WV8Zg.jpeg";
+$ogImage         = "/assets/images/v2wv8zg-480.webp";
 $currentPage     = "about";
 $useSwiper       = false;
 $useTilt         = false;
 $useTyped        = false;
-$heroImage       = "https://i.imgur.com/V2WV8Zg.jpeg";
+$heroImage       = "/assets/images/v2wv8zg-480.webp";
 
 $schemaMarkup = <<<JSON
 {
@@ -19,8 +19,8 @@ $schemaMarkup = <<<JSON
       "name": "Sunnyside Decks & Fences",
       "alternateName": "Lapatsin LLC",
       "url": "https://sunnysidedecksfences.com/",
-      "logo": "https://i.imgur.com/aKknI6J.png",
-      "image": "https://i.imgur.com/V2WV8Zg.jpeg",
+      "logo": "/assets/images/logo.png",
+      "image": "/assets/images/v2wv8zg-480.webp",
       "telephone": "+1-425-737-2259",
       "email": "timlapatsin@yahoo.com",
       "founder": {
@@ -66,7 +66,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 <main id="main-content">
 
   <!-- HERO -->
-  <section class="page-hero" style="background-image: url('https://i.imgur.com/V2WV8Zg.jpeg');" aria-label="About hero">
+  <section class="page-hero" style="background-image: url('/assets/images/v2wv8zg-480.webp');" aria-label="About hero">
     <div class="page-hero-content">
       <span class="eyebrow-label">About Us</span>
       <h1>About Sunnyside Decks &amp; Fences — Everett's Family-Owned Deck &amp; Fence Builders</h1>
@@ -99,7 +99,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="split">
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/ijlVzoa.jpeg" alt="Tim Lapatsin's crew at work building a covered patio in the Puget Sound area" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/tim-lapatsin-960.webp" srcset="/assets/images/tim-lapatsin-480.webp 480w, /assets/images/tim-lapatsin-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Tim Lapatsin's crew at work building a covered patio in the Puget Sound area" width="800" height="1000" loading="lazy">
           </div>
         </div>
         <div data-animate="fade-up">
@@ -119,7 +119,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="split-reverse">
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/Beyaeu1.jpeg" alt="Freestanding cedar pergola on a flagstone patio with landscaping built by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/freestanding-cedar-pergola-on-a-flagstone-patio-480.webp" alt="Freestanding cedar pergola on a flagstone patio with landscaping built by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>
         </div>
         <div data-animate="fade-up">
@@ -172,7 +172,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="split">
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/mYU4D7z.jpeg" alt="Aerial drone view of a craftsman home with custom Sunnyside deck and pergola in the Puget Sound region" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/aerial-drone-view-of-a-craftsman-home-with-custo-480.webp" alt="Aerial drone view of a craftsman home with custom Sunnyside deck and pergola in the Puget Sound region" width="800" height="1000" loading="lazy">
           </div>
         </div>
         <div data-animate="fade-up">

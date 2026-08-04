@@ -2,12 +2,12 @@
 $pageTitle       = "Custom Deck Builder in Everett, WA | Sunnyside";
 $pageDescription = "Custom-built residential decks in Everett, WA & the Puget Sound. Multi-level, wraparound, ground-level — owner Tim on every job. Free estimates from $15K.";
 $canonicalUrl    = "https://sunnysidedecksfences.com/services/custom-deck-building";
-$ogImage         = "https://i.imgur.com/BatIFR5.jpeg";
+$ogImage         = "/assets/images/aerial-view-of-an-everett-craftsman-home-showing-480.webp";
 $currentPage     = "services";
 $useSwiper       = false;
 $useTilt         = false;
 $useTyped        = false;
-$heroImage       = "https://i.imgur.com/BatIFR5.jpeg";
+$heroImage       = "/assets/images/aerial-view-of-an-everett-craftsman-home-showing-480.webp";
 
 $schemaMarkup = <<<JSON
 {
@@ -114,7 +114,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 <main id="main-content">
 
   <!-- HERO -->
-  <section class="page-hero" style="background-image: url('https://i.imgur.com/BatIFR5.jpeg');" aria-label="Custom deck building hero">
+  <section class="page-hero" style="background-image: url('/assets/images/aerial-view-of-an-everett-craftsman-home-showing-480.webp');" aria-label="Custom deck building hero">
     <div class="page-hero-content">
       <span class="eyebrow-label">Custom Deck Builder · Everett, WA</span>
       <h1>Custom Deck Building in Everett, WA</h1>
@@ -190,7 +190,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         </div>
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/XlR8JpE.jpeg" alt="Custom wood deck with railing and stairs leading to backyard, built by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/custom-wood-deck-with-railing-and-stairs-leading-480.webp" alt="Custom wood deck with railing and stairs leading to backyard, built by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>
         </div>
       </div>
@@ -242,7 +242,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="split-reverse">
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/frnq7SE.jpeg" alt="Composite deck under construction with concrete footings, framing visible — Sunnyside crew on-site in Snohomish County" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/composite-deck-under-construction-with-concrete-960.webp" srcset="/assets/images/composite-deck-under-construction-with-concrete-480.webp 480w, /assets/images/composite-deck-under-construction-with-concrete-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Composite deck under construction with concrete footings, framing visible — Sunnyside crew on-site in Snohomish County" width="800" height="1000" loading="lazy">
           </div>
         </div>
         <div data-animate="fade-up">

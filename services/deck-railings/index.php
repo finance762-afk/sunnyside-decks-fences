@@ -2,12 +2,12 @@
 $pageTitle       = "Deck Railing Installation Everett WA | Sunnyside";
 $pageDescription = "Cable, aluminum, glass, vinyl & wood deck railing installation in Everett, WA. WA code-compliant. Preserve your view with a Sunnyside railing system.";
 $canonicalUrl    = "https://sunnysidedecksfences.com/services/deck-railings";
-$ogImage         = "https://i.imgur.com/BZMmHK2.jpeg";
+$ogImage         = "/assets/images/bzmmhk2-480.webp";
 $currentPage     = "services";
 $useSwiper       = false;
 $useTilt         = false;
 $useTyped        = false;
-$heroImage       = "https://i.imgur.com/BZMmHK2.jpeg";
+$heroImage       = "/assets/images/bzmmhk2-480.webp";
 
 $schemaMarkup = <<<JSON
 {
@@ -95,7 +95,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 <main id="main-content">
 
   <!-- HERO -->
-  <section class="page-hero" style="background-image: url('https://i.imgur.com/BZMmHK2.jpeg');" aria-label="Deck railings hero">
+  <section class="page-hero" style="background-image: url('/assets/images/bzmmhk2-480.webp');" aria-label="Deck railings hero">
     <div class="page-hero-content">
       <span class="eyebrow-label">Cable · Aluminum · Glass · Vinyl · Wood</span>
       <h1>Deck Railing Installation in Everett, WA</h1>
@@ -181,7 +181,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         </div>
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/acHlFqy.jpeg" alt="Composite deck with black aluminum railing on a rainy Pacific Northwest day, built by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/composite-deck-with-black-aluminum-railing-on-a-480.webp" alt="Composite deck with black aluminum railing on a rainy Pacific Northwest day, built by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>
         </div>
       </div>
@@ -207,7 +207,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="split-reverse">
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/41vVdpZ.jpeg" alt="Deck with railing posts under construction in the Puget Sound area" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/deck-with-railing-posts-under-construction-in-th-960.webp" srcset="/assets/images/deck-with-railing-posts-under-construction-in-th-480.webp 480w, /assets/images/deck-with-railing-posts-under-construction-in-th-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Deck with railing posts under construction in the Puget Sound area" width="800" height="1000" loading="lazy">
           </div>
         </div>
         <div data-animate="fade-up">

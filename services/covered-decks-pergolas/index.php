@@ -2,12 +2,12 @@
 $pageTitle       = "Pergola & Covered Patio Builder Everett WA | Sunnyside";
 $pageDescription = "Custom pergolas, covered patios, gazebos & screened-in decks in Everett, WA & the Puget Sound. Extend your outdoor season through PNW rain. Free estimates.";
 $canonicalUrl    = "https://sunnysidedecksfences.com/services/covered-decks-pergolas";
-$ogImage         = "https://i.imgur.com/2MhXPL1.jpeg";
+$ogImage         = "/assets/images/freestanding-gable-roof-cedar-pergola-in-an-ever-480.webp";
 $currentPage     = "services";
 $useSwiper       = false;
 $useTilt         = false;
 $useTyped        = false;
-$heroImage       = "https://i.imgur.com/2MhXPL1.jpeg";
+$heroImage       = "/assets/images/freestanding-gable-roof-cedar-pergola-in-an-ever-480.webp";
 
 $schemaMarkup = <<<JSON
 {
@@ -95,7 +95,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 <main id="main-content">
 
   <!-- HERO -->
-  <section class="page-hero" style="background-image: url('https://i.imgur.com/2MhXPL1.jpeg');" aria-label="Pergola and covered deck hero">
+  <section class="page-hero" style="background-image: url('/assets/images/freestanding-gable-roof-cedar-pergola-in-an-ever-480.webp');" aria-label="Pergola and covered deck hero">
     <div class="page-hero-content">
       <span class="eyebrow-label">Pergolas · Covered Patios · Gazebos</span>
       <h1>Pergola &amp; Covered Patio Builder in Everett, WA</h1>
@@ -131,7 +131,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="split-reverse">
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/4tROy9r.jpeg" alt="Interior view of a custom covered patio with skylights, built by Sunnyside Decks &amp; Fences in the Puget Sound area" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/interior-view-of-a-custom-covered-patio-with-sky-480.webp" alt="Interior view of a custom covered patio with skylights, built by Sunnyside Decks &amp; Fences in the Puget Sound area" width="800" height="1000" loading="lazy">
           </div>
         </div>
         <div data-animate="fade-up">
@@ -201,7 +201,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         </div>
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/0XPAb7O.jpeg" alt="Attached covered patio with stone columns and timber beams built by Sunnyside Decks &amp; Fences in Snohomish County" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/covered-patio-with-stone-columns-and-timber-roof-480.webp" alt="Attached covered patio with stone columns and timber beams built by Sunnyside Decks &amp; Fences in Snohomish County" width="800" height="1000" loading="lazy">
           </div>
         </div>
       </div>

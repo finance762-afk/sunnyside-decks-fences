@@ -2,12 +2,12 @@
 $pageTitle       = "Outdoor Living Space Builder Everett WA | Sunnyside";
 $pageDescription = "Multi-level decks, deck lighting, pergolas & complete backyard design-build in Everett, WA & the Puget Sound. Full outdoor living from one family-run crew.";
 $canonicalUrl    = "https://sunnysidedecksfences.com/services/outdoor-living-spaces";
-$ogImage         = "https://i.imgur.com/wZ09N1K.jpeg";
+$ogImage         = "/assets/images/wz09n1k-960.webp";
 $currentPage     = "services";
 $useSwiper       = false;
 $useTilt         = false;
 $useTyped        = false;
-$heroImage       = "https://i.imgur.com/wZ09N1K.jpeg";
+$heroImage       = "/assets/images/wz09n1k-960.webp";
 
 $schemaMarkup = <<<JSON
 {
@@ -105,7 +105,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 <main id="main-content">
 
   <!-- HERO -->
-  <section class="page-hero" style="background-image: url('https://i.imgur.com/wZ09N1K.jpeg');" aria-label="Outdoor living spaces hero">
+  <section class="page-hero" style="background-image: url('/assets/images/wz09n1k-960.webp');" aria-label="Outdoor living spaces hero">
     <div class="page-hero-content">
       <span class="eyebrow-label">Premium Design-Build</span>
       <h1>Outdoor Living Space Builder in Everett, WA</h1>
@@ -148,7 +148,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         </div>
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/SFU9Ao3.jpeg" alt="Multi-level outdoor living build with hot tub and water view, designed and built by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/multi-level-outdoor-living-build-with-hot-tub-an-960.webp" srcset="/assets/images/multi-level-outdoor-living-build-with-hot-tub-an-480.webp 480w, /assets/images/multi-level-outdoor-living-build-with-hot-tub-an-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Multi-level outdoor living build with hot tub and water view, designed and built by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>
         </div>
       </div>
@@ -212,7 +212,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="split-reverse">
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/4wTTC6a.jpeg" alt="Modern two-level ipe hardwood deck outdoor living build by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/modern-two-level-ipe-hardwood-deck-with-cable-ra-960.webp" srcset="/assets/images/modern-two-level-ipe-hardwood-deck-with-cable-ra-480.webp 480w, /assets/images/modern-two-level-ipe-hardwood-deck-with-cable-ra-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Modern two-level ipe hardwood deck outdoor living build by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>
         </div>
         <div data-animate="fade-up">
@@ -265,7 +265,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="bg-surface" style="padding-top: 0;">
     <div class="container">
       <div class="img-frame" style="aspect-ratio: 16/7; max-width: 1000px; margin: 0 auto;" data-animate="fade-up">
-        <img src="https://i.imgur.com/Beyaeu1.jpeg" alt="Freestanding cedar pergola on a flagstone patio with custom landscaping — Sunnyside outdoor living build" width="1000" height="438" loading="lazy">
+        <img src="/assets/images/freestanding-cedar-pergola-on-a-flagstone-patio-480.webp" alt="Freestanding cedar pergola on a flagstone patio with custom landscaping — Sunnyside outdoor living build" width="1000" height="438" loading="lazy">
       </div>
       <div class="prose-centered" data-animate="fade-up" style="margin: var(--space-2xl) auto 0; text-align: center;">
         <p>Pair your outdoor living build with a <a href="/services/custom-deck-building">custom deck</a>, integrated <a href="/services/covered-decks-pergolas">pergola or covered patio</a>, or finish the frame with <a href="/services/deck-railings">cable or glass railings</a>.</p>

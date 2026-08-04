@@ -12,7 +12,7 @@ function navActive($page, $current) {
 <nav class="navbar" aria-label="Main navigation">
   <div class="nav-container">
     <a href="/" class="nav-logo" aria-label="Sunnyside Decks &amp; Fences — Home">
-      <img src="https://i.imgur.com/aKknI6J.png" alt="Sunnyside Decks &amp; Fences logo" width="180" height="50">
+      <img src="/assets/images/logo.png" alt="Sunnyside Decks &amp; Fences logo" width="180" height="50">
     </a>
 
     <ul class="nav-menu">

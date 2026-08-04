@@ -2,12 +2,12 @@
 $pageTitle       = "Custom Gate Installation Everett WA | Sunnyside";
 $pageDescription = "Custom driveway gates, garden gates & privacy gates installed in Everett, WA & the Puget Sound. Cedar, hardwood & heavy-duty hardware. Free estimates.";
 $canonicalUrl    = "https://sunnysidedecksfences.com/services/gate-installation";
-$ogImage         = "https://i.imgur.com/XoaA0Ge.jpeg";
+$ogImage         = "/assets/images/custom-horizontal-slat-cedar-driveway-gate-insta-960.webp";
 $currentPage     = "services";
 $useSwiper       = false;
 $useTilt         = false;
 $useTyped        = false;
-$heroImage       = "https://i.imgur.com/XoaA0Ge.jpeg";
+$heroImage       = "/assets/images/custom-horizontal-slat-cedar-driveway-gate-insta-960.webp";
 
 $schemaMarkup = <<<JSON
 {
@@ -95,7 +95,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 <main id="main-content">
 
   <!-- HERO -->
-  <section class="page-hero" style="background-image: url('https://i.imgur.com/XoaA0Ge.jpeg');" aria-label="Gate installation hero">
+  <section class="page-hero" style="background-image: url('/assets/images/custom-horizontal-slat-cedar-driveway-gate-insta-960.webp');" aria-label="Gate installation hero">
     <div class="page-hero-content">
       <span class="eyebrow-label">Driveway · Garden · Privacy · Custom</span>
       <h1>Custom Gate Installation in Everett, WA</h1>
@@ -131,7 +131,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="split-reverse">
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/ElkJsDl.jpeg" alt="Custom cedar double swing gate with vertical panels, built by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/custom-cedar-double-gate-matched-to-a-horizontal-960.webp" srcset="/assets/images/custom-cedar-double-gate-matched-to-a-horizontal-480.webp 480w, /assets/images/custom-cedar-double-gate-matched-to-a-horizontal-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Custom cedar double swing gate with vertical panels, built by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>
         </div>
         <div data-animate="fade-up">
@@ -216,7 +216,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         </div>
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/cFo2xyI.jpeg" alt="Close-up view of custom cedar driveway gate panels installed by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/close-up-view-of-custom-cedar-driveway-gate-pane-960.webp" srcset="/assets/images/close-up-view-of-custom-cedar-driveway-gate-pane-480.webp 480w, /assets/images/close-up-view-of-custom-cedar-driveway-gate-pane-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Close-up view of custom cedar driveway gate panels installed by Sunnyside Decks &amp; Fences" width="800" height="1000" loading="lazy">
           </div>
         </div>
       </div>

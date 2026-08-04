@@ -2,12 +2,12 @@
 $pageTitle       = "Wood Deck Installation Everett WA | Sunnyside";
 $pageDescription = "Cedar, ipe, redwood & pressure-treated wood deck installation in Everett, WA & the Puget Sound. Built for PNW weather. Free estimates from Sunnyside.";
 $canonicalUrl    = "https://sunnysidedecksfences.com/services/wood-decking";
-$ogImage         = "https://i.imgur.com/5MnRDrC.jpeg";
+$ogImage         = "/assets/images/finished-ipe-hardwood-deck-with-stainless-cable-960.webp";
 $currentPage     = "services";
 $useSwiper       = false;
 $useTilt         = false;
 $useTyped        = false;
-$heroImage       = "https://i.imgur.com/5MnRDrC.jpeg";
+$heroImage       = "/assets/images/finished-ipe-hardwood-deck-with-stainless-cable-960.webp";
 
 $schemaMarkup = <<<JSON
 {
@@ -95,7 +95,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 <main id="main-content">
 
   <!-- HERO -->
-  <section class="page-hero" style="background-image: url('https://i.imgur.com/5MnRDrC.jpeg');" aria-label="Wood decking hero">
+  <section class="page-hero" style="background-image: url('/assets/images/finished-ipe-hardwood-deck-with-stainless-cable-960.webp');" aria-label="Wood decking hero">
     <div class="page-hero-content">
       <span class="eyebrow-label">Cedar · Ipe · Redwood · PT</span>
       <h1>Wood Deck Installation in Everett, WA</h1>
@@ -138,7 +138,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         </div>
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/D6V47uI.jpeg" alt="Rain-wet ipe hardwood deck looking toward cable railing in the Pacific Northwest" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/rain-wet-ipe-hardwood-deck-built-for-pacific-nor-960.webp" srcset="/assets/images/rain-wet-ipe-hardwood-deck-built-for-pacific-nor-480.webp 480w, /assets/images/rain-wet-ipe-hardwood-deck-built-for-pacific-nor-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Rain-wet ipe hardwood deck looking toward cable railing in the Pacific Northwest" width="800" height="1000" loading="lazy">
           </div>
         </div>
       </div>
@@ -190,7 +190,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="split-reverse">
         <div>
           <div class="img-frame" style="aspect-ratio: 4/5;">
-            <img src="https://i.imgur.com/8ew65yq.jpeg" alt="Two-story wood deck and balcony with tongue-and-groove ceiling, built by Sunnyside Decks &amp; Fences in the greater Seattle area" width="800" height="1000" loading="lazy">
+            <img src="/assets/images/two-story-residential-deck-and-balcony-build-in-960.webp" srcset="/assets/images/two-story-residential-deck-and-balcony-build-in-480.webp 480w, /assets/images/two-story-residential-deck-and-balcony-build-in-960.webp 960w" sizes="(max-width: 768px) 100vw, 800px" alt="Two-story wood deck and balcony with tongue-and-groove ceiling, built by Sunnyside Decks &amp; Fences in the greater Seattle area" width="800" height="1000" loading="lazy">
           </div>
         </div>
         <div data-animate="fade-up">
