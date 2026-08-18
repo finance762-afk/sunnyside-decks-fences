@@ -65,7 +65,7 @@ $noindex   = isset($noindex)   ? $noindex   : false;
   <?php endif; ?>
 
   <!-- Site Stylesheet (cache-bust) -->
-  <link rel="stylesheet" href="/assets/css/styles.css?v=5">
+  <link rel="stylesheet" href="/assets/css/styles.css?v=6">
 
   <!-- Google Analytics 4 — placeholder -->
   <!-- <?php if (!empty($ga4MeasurementId)): ?>
