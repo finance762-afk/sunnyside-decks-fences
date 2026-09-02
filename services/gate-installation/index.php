@@ -40,11 +40,6 @@ $schemaMarkup = <<<JSON
         "@type": "Offer",
         "priceCurrency": "USD",
         "priceRange": "\$600 - \$8,000+"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": "85"
       }
     },
     {

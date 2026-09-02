@@ -62,12 +62,7 @@ $schemaMarkup = <<<JSON
       "sameAs": [
         "https://www.instagram.com/lapatsin_llc/",
         "https://share.google/DzdjpCErMrTdlOsXm"
-      ],
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5.0",
-        "reviewCount": "27"
-      }
+      ]
     },
     {
       "@type": "WebSite",

@@ -41,11 +41,6 @@ $schemaMarkup = <<<JSON
         "@type": "Offer",
         "priceCurrency": "USD",
         "priceRange": "\$30 - \$75 per linear foot"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": "85"
       }
     },
     {
